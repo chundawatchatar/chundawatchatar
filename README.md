@@ -8,14 +8,9 @@ I'm **Chatar Singh Chundawat**, a Senior Full-Stack Developer with over 9 years 
 - 🎥 Recently led development of a personalized video generation platform that processed **500K+ videos/day** and served **1M+ API requests/hour**.
 
 ### 🌱 I’m currently learning
-- Elixir & Phoenix for real-time backend systems  
+- Go, LangChain, and AI agent implementation
 - Advanced AWS patterns for resilient infrastructure  
 - Redis & caching strategies at scale  
-
-### 👯 I’m looking to collaborate on
-- Fintech and edtech platforms  
-- AI + Video tools  
-- Scalable backend systems or open-source DevTools  
 
 ### 💬 Ask me about
 - Full-stack development  
